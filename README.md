@@ -1,6 +1,6 @@
 # Car Dealer Management
 <br>
-As a part-time salesman at a used car dealership, I identified significant challenges in managing vehicles from private sellers. Tracking cars, organizing MR Numbers, 
+As a part-time salesman at a used car dealership in WA, Australia. , I identified significant challenges in managing vehicles from private sellers. Tracking cars, organizing MR Numbers, 
 and ensuring timely inspections were inefficient due to the high volume of incoming vehicles. Many cars missed their inspection deadlines,
 requiring a repeat vehicle inspection, which incurred additional costs of approximately $200 per car.
 <br>
