@@ -1,9 +1,41 @@
-# Car Dealer Management
+# 🚗 Car Dealer App
+
+A desktop application built with Python's Tkinter and SQLite to help car dealerships manage their inventory, track vehicle inspections, and maintain organized records — including MR Numbers.
+
+## 📌 Features
+
+- Add cars with dealer name, car model, purchase date, inspection due date, and MR number
+- View all added vehicles in a structured table
+- Automatically calculate days remaining for the next inspection
+- Highlight cars whose inspection is due within 10 days
+- Simple, intuitive user interface
+- Persistent local database using SQLite
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Tkinter (Python GUI Library)
+- **Backend**: SQLite (Lightweight database)
+- **Calendar Widget**: `tkcalendar.DateEntry`
+- **Language**: Python 3
+
+## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/ef12a5fe-d4b2-49ef-a2c2-2f91eef437cf)
 <br>
-As a part-time salesman at a used car dealership in WA, Australia. , I identified significant challenges in managing vehicles from private sellers. Tracking cars, organizing MR Numbers, 
-and ensuring timely inspections were inefficient due to the high volume of incoming vehicles. Many cars missed their inspection deadlines,
-requiring a repeat vehicle inspection, which incurred additional costs of approximately $200 per car.
+
+![image](https://github.com/user-attachments/assets/c29b6b40-9548-43f1-954a-6c5fee8d8dd2)
 <br>
-To address this issue, I developed Car Dealer Management, an application designed to streamline the tracking of each vehicle, manage MR Numbers efficiently,
-and provide timely notifications regarding upcoming inspection deadlines. By ensuring inspections are completed within the given timeframe,
-this app helps dealerships avoid unnecessary expenses and improve overall operational efficiency.
+![image](https://github.com/user-attachments/assets/476d19e9-43cb-4c6d-a361-b8bf2c8dd26c)
+<br>
+![image](https://github.com/user-attachments/assets/f4c8114a-8347-435f-92ae-4b929fa3168a)
+
+
+
+## 🧑‍💻 Getting Started
+
+### Prerequisites
+
+- Python 3.x installed
+- Required packages:
+  ```bash
+  pip install tkcalendar
