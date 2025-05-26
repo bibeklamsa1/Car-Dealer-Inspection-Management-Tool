@@ -5,6 +5,7 @@ A desktop application built with Python's Tkinter and SQLite to help car dealers
 ## 📌 Features
 
 - Add cars with dealer name, car model, purchase date, inspection due date, and MR number
+- Update cars, dealers , and other details by selecting car
 - View all added vehicles in a structured table
 - Automatically calculate days remaining for the next inspection
 - Highlight cars whose inspection is due within 10 days
